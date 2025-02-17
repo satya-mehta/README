@@ -1,10 +1,10 @@
 # 💫 About Me:
 ❄️Okay! So I'm a Self-learnt Programmer been coding for the last 7 years.<br>
 🚀I started with programming Arduinos on my self-interest when I was in class 7.🚀<br>
-🔑Earlier I didn't maintain my repo, Now I'm releasing my projects on Github <br> 
-🎉I'm currently working on developing web extensions<br>
-🌊I'm learning backend tools<br>
-🕸️I'm open to collaborating on any relevant project<br>
+🔑Earlier I didn't maintain my repo, Now I'm releasing my projects on Github.<br> 
+🎉I'm currently working on developing web extensions.<br>
+🌊I'm learning backend tools.<br>
+🕸️I'm open to collaborating on any relevant project.<br>
 
 
 ## 🌐 Socials:
