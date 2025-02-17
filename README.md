@@ -1,8 +1,13 @@
 # 💫 About Me:
 ❄️Okay! So I'm a Self-learnt Programmer been coding for the last 7 years.<br>
 🚀I started with programming Arduinos on my self-interest when I was in class 7.🚀<br>
-🔑Earlier I didn't maintain my repo, Now I'm releasing my projects on GitHub.<br>
-🎉I'm currently working on developing web extensions.<br>
+🛠️Then I learned web development, python, PCB designing and electronics.<br>
+💡Using all the knowledge I gained I created my best project ever - VISON<br>
+🤖VISON was my room assistant to control my appliances and room environment and secure my workspace.<br>
+💭It took a year and a half to create VISON and a minute to dissemble because I changed my workplace.<br>
+🌤️In the near future, I shall rebuild it with more abilities and features.<br>
+🔑Earlier I didn't maintain my repo, Now I'm gradually releasing my projects on GitHub.<br>
+🎉I'm currently working on developing web extensions of productivity and utility.<br>
 🌊I'm learning backend tools.<br>
 🕸️I'm open to collaborating on any relevant project.
 
